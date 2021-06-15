@@ -1,0 +1,10 @@
+C:\Users\Fabricio\Desktop\ITSN 301\Programacion orientada a objetos\3er parcial\AppDesktopCifradoAES\AppDesktopCifradoAES\obj\Debug\AppDesktopCifradoAES.csprojAssemblyReference.cache
+C:\Users\Fabricio\Desktop\ITSN 301\Programacion orientada a objetos\3er parcial\AppDesktopCifradoAES\AppDesktopCifradoAES\obj\Debug\AppDesktopCifradoAES.Form1.resources
+C:\Users\Fabricio\Desktop\ITSN 301\Programacion orientada a objetos\3er parcial\AppDesktopCifradoAES\AppDesktopCifradoAES\obj\Debug\AppDesktopCifradoAES.Properties.Resources.resources
+C:\Users\Fabricio\Desktop\ITSN 301\Programacion orientada a objetos\3er parcial\AppDesktopCifradoAES\AppDesktopCifradoAES\obj\Debug\AppDesktopCifradoAES.csproj.GenerateResource.cache
+C:\Users\Fabricio\Desktop\ITSN 301\Programacion orientada a objetos\3er parcial\AppDesktopCifradoAES\AppDesktopCifradoAES\obj\Debug\AppDesktopCifradoAES.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio\Desktop\ITSN 301\Programacion orientada a objetos\3er parcial\AppDesktopCifradoAES\AppDesktopCifradoAES\bin\Debug\AppDesktopCifradoAES.exe.config
+C:\Users\Fabricio\Desktop\ITSN 301\Programacion orientada a objetos\3er parcial\AppDesktopCifradoAES\AppDesktopCifradoAES\bin\Debug\AppDesktopCifradoAES.exe
+C:\Users\Fabricio\Desktop\ITSN 301\Programacion orientada a objetos\3er parcial\AppDesktopCifradoAES\AppDesktopCifradoAES\bin\Debug\AppDesktopCifradoAES.pdb
+C:\Users\Fabricio\Desktop\ITSN 301\Programacion orientada a objetos\3er parcial\AppDesktopCifradoAES\AppDesktopCifradoAES\obj\Debug\AppDesktopCifradoAES.exe
+C:\Users\Fabricio\Desktop\ITSN 301\Programacion orientada a objetos\3er parcial\AppDesktopCifradoAES\AppDesktopCifradoAES\obj\Debug\AppDesktopCifradoAES.pdb
